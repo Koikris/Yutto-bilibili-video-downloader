@@ -1,6 +1,4 @@
 # Yutto-bilibili-video-downloader 视频下载器 
-一个基于yutto的下载视频脚本，可以根据已有的含有bvid (avid) 的csv文件下载所有目标视频文件。可根据需要配置ip代理
-## 项目简介
 本项目是一个基于 Python 的视频下载工具，支持从 CSV 文件中读取视频 ID (`avid`)，并通过代理从指定平台（如 Bilibili）下载视频。下载过程中支持错误记录、进度保存，以及封面图片提取。
 ---
 ## 功能特点
